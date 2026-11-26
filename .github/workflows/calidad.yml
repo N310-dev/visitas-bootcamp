@@ -1,0 +1,25 @@
+name: Calidad Python y KPI
+
+on: [push, pull_request]
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Comprobar sintaxis
+        run: python -m py_compile analisis.py comprobar_resultado.py
+
+      - name: Ejecutar analisis
+        run: python analisis.py
+
+      - name: Validar KPI
+        run: python comprobar_resultado.py
