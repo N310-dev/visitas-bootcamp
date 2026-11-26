@@ -31,7 +31,7 @@ No se requieren paquetes externos. El código utiliza la librería estándar de 
 
 ## Lista de participantes
 
-Añade aquí tu nombre mediante una rama y una pull request.
+Rama de Alejandro Villa es nombre-kpi
 
 ## Preguntas para la revisión
 
