@@ -1,6 +1,6 @@
 """KPI de ejemplo para las prácticas de Git y GitHub.
 
-Solo usa módulos de la librería estándar de Python.
+Solo usa módulos de la librería estándar de Python. DATOS SINTETICOS
 """
 
 import csv

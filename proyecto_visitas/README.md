@@ -16,14 +16,14 @@ Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
 Desde esta carpeta, abre la terminal y ejecuta:
 
 ```bash
-python analisisDatos.py
+python analisis.py
 ```
 
 No se requieren paquetes externos. El código utiliza la librería estándar de Python. No descargues nada.
 
 ## Archivo de trabajo
 
-- `analisisDatos.py`: lee el CSV y calcula visitas, conversiones y tasa.
+- `analisis.py`: lee el CSV y calcula visitas, conversiones y tasa.
 - `datos/visitas.csv`: registros **ficticios** de ejemplo.
 - `.gitignore`: evita incluir ficheros locales/sensibles por accidente.
 
