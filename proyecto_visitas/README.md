@@ -13,7 +13,7 @@ Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
 
 ## Ejecutar
 
-Desde esta carpeta, abre la terminal y ejecuta:
+Desde esta carpeta, abre la terminal y ejecuta lo siguiente:
 
 ```bash
 python analisis.py
