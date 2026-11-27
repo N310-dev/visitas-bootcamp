@@ -1,7 +1,5 @@
 # Visitas y conversiones · Bootcamp Data Analyst
 
-# Hugo de la Torre Gil
-
 Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
 
 ## Pregunta de negocio
