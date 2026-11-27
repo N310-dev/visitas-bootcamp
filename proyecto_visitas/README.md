@@ -31,7 +31,8 @@ No se requieren paquetes externos. El código utiliza la librería estándar de 
 
 ## Lista de participantes
 
-Rama creada por Alejandro villa -- mejoras/AlejandroV
+
+
 
 ## Preguntas para la revisión
 
